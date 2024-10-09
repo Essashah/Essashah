@@ -10,7 +10,7 @@ I am currently expanding my knowledge in AI and machine learning, focusing on de
 I am open to collaborating on projects related to AI, machine learning, data science, and software development. Whether it’s an open-source initiative, a research project, or developing an innovative application, I’m excited to work with others who share my passion for technology and innovation.
 
 📫 **How to Reach Me**:  
-Feel free to connect with me via [essashah10@gmail.com](mailto:essashah10@gmail.com) or visit my [portfolio](https://your-portfolio-link). I'm always open to discussing new ideas, potential collaborations, or simply connecting with like-minded professionals.
+Feel free to connect with me via [essashah10@gmail.com](mailto:essashah10@gmail.com). I'm always open to discussing new ideas, potential collaborations, or simply connecting with like-minded professionals.
 
 ## 🚀 Skills
 Here are some technologies I work with:
