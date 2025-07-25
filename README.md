@@ -14,34 +14,14 @@ Let’s connect, brainstorm ideas, or work on something impactful together!
 ## 🚀 Skills
 Here are some technologies I work with:
 
-### Programming Languages
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-
-### Web Development
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-
-### Databases
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-
-### AI & Machine Learning
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
-![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
-
-### Tools & Technologies
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![Postman](https://img.icons8.com/color/48/000000/postman.png)
-
-## 🌍 Projects
-- [Project Name](link) - Brief description of the project.
-- [Project Name](link) - Brief description of the project.
+🧠 Technologies I Work With
+💻 Programming Languages
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> </p>
+🌐 Web Development
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/> </p>
+🧠 AI, Machine Learning & Data Science
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-numpy-scientific-programming-soft-fill-soft-fill-juicy-fish.png" alt="NumPy"/> <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/> <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn"/> <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter"/> <img src="https://img.icons8.com/fluency/48/000000/matplotlib.png" alt="Matplotlib"/> </p>
+🗄️ Databases
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postgresql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="PostgreSQL"/> </p>
+🧰 Tools & DevOps
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/> <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-google-colab-a-free-jupyter-notebook-environment-that-runs-in-the-cloud-logo-color-tal-revivo.png" alt="Google Colab"/> </p>
