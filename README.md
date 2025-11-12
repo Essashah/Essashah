@@ -26,7 +26,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <a href="https://essashah.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-essashah.github.io/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+    <img src="[https://img.shields.io/badge/Portfolio-essashah.github.io/portfolio-000000?](https://my-portfolio-theta-ten-12.vercel.app/)style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
 
