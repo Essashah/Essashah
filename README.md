@@ -26,10 +26,10 @@
 [![](https://visitcount.itsvg.in/api?id=essashah&icon=10&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  <a href="https://essashah.github.io/portfolio">
-    <img src="[https://img.shields.io/badge/Portfolio-essashah.github.io/portfolio-000000?](https://my-portfolio-theta-ten-12.vercel.app/)style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
-  </a>
-</div>
+<a href="https://my-portfolio-theta-ten-12.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-my--portfolio--theta--ten--12.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+</a>
+
 
 ---
 
