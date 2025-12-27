@@ -61,29 +61,18 @@ From rapid experimentation to production-grade deployment, I focus on shipping f
 
 ### Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,python,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,pytorch,tensorflow,opencv,sklearn,numpy,pandas" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/MLflow-000000?style=flat&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Triton-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=jupyter,linux,docker,git" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Databricks-E62B1E?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-</p>
+**Also working with:** MLflow, Kubeflow, Ray, ONNX, Triton, LangChain, Hugging Face, FAISS, Pinecone
 
 ### Tooling
 <p>
