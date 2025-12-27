@@ -19,15 +19,9 @@ From rapid experimentation to production-grade deployment, I focus on shipping f
 
 ## 🌐 Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/essa-shah-7a0a5a294/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:essashah10@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://my-portfolio-theta-ten-12.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
+  <a href="https://www.linkedin.com/in/essa-shah-7a0a5a294/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:essashah10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://my-portfolio-theta-ten-12.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
 ---
@@ -61,7 +55,18 @@ From rapid experimentation to production-grade deployment, I focus on shipping f
 
 ### Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=python,anaconda,pytorch,tensorflow,opencv,sklearn,numpy,pandas,jupyter,linux,docker,git,aws,gcp,azure" />
+  <!-- Core ML Frameworks -->
+  <img src="https://skillicons.dev/icons?i=python,anaconda,pytorch,tensorflow,sklearn,opencv,numpy,pandas" />
+</p>
+
+<p>
+  <!-- Tools & Environment -->
+  <img src="https://skillicons.dev/icons?i=jupyter,linux,docker,git" />
+</p>
+
+<p>
+  <!-- Cloud / Platform ML -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
 ### Tooling
