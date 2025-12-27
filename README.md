@@ -71,18 +71,6 @@ From rapid experimentation to production-grade deployment, I focus on shipping f
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=essashah&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=essashah&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=essashah&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=essashah&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
