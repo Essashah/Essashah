@@ -61,18 +61,8 @@ From rapid experimentation to production-grade deployment, I focus on shipping f
 
 ### Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=python,anaconda,pytorch,tensorflow,opencv,sklearn,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,pytorch,tensorflow,opencv,sklearn,numpy,pandas,jupyter,linux,docker,git,aws,gcp,azure" />
 </p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jupyter,linux,docker,git" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-</p>
-
-**Also working with:** MLflow, Kubeflow, Ray, ONNX, Triton, LangChain, Hugging Face, FAISS, Pinecone
 
 ### Tooling
 <p>
