@@ -23,24 +23,24 @@ I build intelligent, data-driven products that merge modern web experiences with
 
 <br/>
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 | Domain | Highlights |
 |:--|:--|
-| 🤖 **AI / ML Applications** | Predictive modeling · Intelligent automation · Computer vision · NLP |
-| 🌐 **Modern Web Experiences** | SPA / SSR architecture · Interactive UI/UX · Accessibility · Performance |
-| ☁️ **Cloud & Data Platforms** | Distributed systems · Data engineering · Observability · Resilient ops |
+|  **AI / ML Applications** | Predictive modeling · Intelligent automation · Computer vision · NLP |
+|  **Modern Web Experiences** | SPA / SSR architecture · Interactive UI/UX · Accessibility · Performance |
+|  **Cloud & Data Platforms** | Distributed systems · Data engineering · Observability · Resilient ops |
 
 <br/>
 
-## 🌱 Currently Going Deep On
+##  Currently Going Deep On
 
 | Track | Tools |
 |:--|:--|
-| ⚙️ **MLOps & Pipelines** | MLflow · Kubeflow · Vertex AI Pipelines · Azure ML · Databricks · Argo |
-| 🧠 **Generative AI & RAG** | Hugging Face · LangChain · Fine-tuning · Vector Databases · Guardrails |
-| 🚀 **Production ML** | BentoML · Ray Serve · Triton · ONNX Runtime |
-| 🎮 **Immersive Web** | Three.js · WebGL · GSAP · Micro-frontends · Design Systems |
+|  **MLOps & Pipelines** | MLflow · Kubeflow · Vertex AI Pipelines · Azure ML · Databricks · Argo |
+|  **Generative AI & RAG** | Hugging Face · LangChain · Fine-tuning · Vector Databases · Guardrails |
+|  **Production ML** | BentoML · Ray Serve · Triton · ONNX Runtime |
+|  **Immersive Web** | Three.js · WebGL · GSAP · Micro-frontends · Design Systems |
 
 <br/>
 
@@ -61,7 +61,7 @@ I build intelligent, data-driven products that merge modern web experiences with
 
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I build intelligent, data-driven products that merge modern web experiences with
 
 </div>
 
-> ⚠️ This needs a one-time GitHub Actions setup to work (details below) — it's not live until you add the workflow.
+
 
 <br/>
 
