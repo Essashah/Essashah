@@ -8,7 +8,6 @@
 @keyframes blink{50%{opacity:0}}
 .pop{animation:pop 1s cubic-bezier(.22,1,.36,1) backwards}
 @keyframes pop{from{opacity:0;transform:translateY(14px)}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style><defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity="0"/></pattern>
 <linearGradient id="tx" x1="0" x2="1" gradientUnits="objectBoundingBox">
   <stop offset="0" stop-color="#00e59b"/><stop offset=".33" stop-color="#0a8f63"/><stop offset=".66" stop-color="#7dffcf"/><stop offset="1" stop-color="#e6fff4"/>

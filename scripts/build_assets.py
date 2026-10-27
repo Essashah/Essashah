@@ -31,7 +31,6 @@ BASE = f"""
 @keyframes blink{{50%{{opacity:0}}}}
 .pop{{animation:pop 1s cubic-bezier(.22,1,.36,1) backwards}}
 @keyframes pop{{from{{opacity:0;transform:translateY(14px)}}}}
-@media (prefers-reduced-motion:reduce){{*{{animation:none!important}}}}
 """
 def svg(w, h, label, body, css=""):
   return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{label}">'
